@@ -1,8 +1,8 @@
 # fibonacci
 compile:
 
-python3 test_fibonacci.py\
+python3 test_fibonacci.py
 
-OR\
+OR
 
 pytest test_fibonacci.py
